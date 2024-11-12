@@ -1,0 +1,4 @@
+нояб. 12, 2024 1:18:22 PM Main.Lesson2.Lesson writeFileNamesToFiles
+INFO: Привет
+нояб. 12, 2024 1:19:08 PM Main.Lesson2.Lesson writeFileNamesToFiles
+INFO: Привет
