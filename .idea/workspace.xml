@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c754cb6-ce8c-44fd-8676-f846dff7a934" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Main/Lesson4/Lesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/Lesson5/Lesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/Lesson5/Seminar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/Lesson5/Seminar2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/Lesson6/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/Lesson6/LaptopStore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Lesson4/HomeWork1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Lesson4/HomeWork1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Lesson4/HomeWork2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Lesson4/HomeWork2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Lesson4/HomeWork3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Lesson4/HomeWork3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Lesson4/HomeWork4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Lesson4/HomeWork4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Lesson5/HomeWork1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Lesson5/HomeWork1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Lesson5/HomeWork2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Lesson5/HomeWork2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Lesson5/HomeWork3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Lesson5/HomeWork3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Lesson5/HomeWork4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Lesson5/HomeWork4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +49,7 @@
     "Application.HomeWork1.executor": "Run",
     "Application.HomeWork2.executor": "Run",
     "Application.HomeWork3.executor": "Run",
+    "Application.HomeWork4.executor": "Run",
     "Application.Les.executor": "Run",
     "Application.Lesson.executor": "Run",
     "Application.Main.Lesson2.HomeWork1.executor": "Run",
@@ -51,7 +58,10 @@
     "Application.Main.Lesson3.HomeWork3.executor": "Run",
     "Application.Main.Lesson3.Lesson.executor": "Run",
     "Application.Main.Lesson4.HomeWork1.executor": "Run",
+    "Application.Main.Lesson5.Lesson.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Seminar.executor": "Run",
+    "Application.Seminar2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -67,11 +77,11 @@
   </component>
   <component name="RunManager" selected="Application.HomeWork4">
     <configuration name="HomeWork2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main.Lesson4.HomeWork2" />
+      <option name="MAIN_CLASS_NAME" value="Main.Lesson5.HomeWork2" />
       <module name="JavaApi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Main.Lesson4.*" />
+          <option name="PATTERN" value="Main.Lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,11 +90,11 @@
       </method>
     </configuration>
     <configuration name="HomeWork3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main.Lesson4.HomeWork3" />
+      <option name="MAIN_CLASS_NAME" value="Main.Lesson5.HomeWork3" />
       <module name="JavaApi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Main.Lesson4.*" />
+          <option name="PATTERN" value="Main.Lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,11 +103,11 @@
       </method>
     </configuration>
     <configuration name="HomeWork4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main.Lesson4.HomeWork4" />
+      <option name="MAIN_CLASS_NAME" value="Main.Lesson5.HomeWork4" />
       <module name="JavaApi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Main.Lesson4.*" />
+          <option name="PATTERN" value="Main.Lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main.Lesson3.HomeWork3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main.Lesson3.HomeWork3" />
+    <configuration name="Seminar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.Lesson5.Seminar" />
       <module name="JavaApi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Main.Lesson3.*" />
+          <option name="PATTERN" value="Main.Lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main.Lesson4.HomeWork1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main.Lesson4.HomeWork1" />
+    <configuration name="Seminar2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.Lesson5.Seminar2" />
       <module name="JavaApi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Main.Lesson4.*" />
+          <option name="PATTERN" value="Main.Lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,10 +144,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.HomeWork4" />
-        <item itemvalue="Application.HomeWork2" />
         <item itemvalue="Application.HomeWork3" />
-        <item itemvalue="Application.Main.Lesson4.HomeWork1" />
-        <item itemvalue="Application.Main.Lesson3.HomeWork3" />
+        <item itemvalue="Application.HomeWork2" />
+        <item itemvalue="Application.Seminar2" />
+        <item itemvalue="Application.Seminar" />
       </list>
     </recent_temporary>
   </component>
